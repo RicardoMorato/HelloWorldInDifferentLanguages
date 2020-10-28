@@ -14,7 +14,7 @@ Se não, sinta-se livre para seguir os próximos passos:
 - Segunda coisa que você fez
 - Terceira e assim por diante
 
-## Como testar
+## Como testar:
 - Esta parte é muito importante
 - Pois é nela em que vamos entender como testar/rodar o seu "Hello World"
 - Caso o código precise ser compilado diga como deve ser feito
